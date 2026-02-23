@@ -21,7 +21,7 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 
 💻 Currently mastering **Data Structures & Algorithms using C++**  
 🤖 Learning **Machine Learning & Model Deployment**  
-🌐 Exploring **Web & Backend Development with Flask**
+🌐 Exploring **Web & Backend Development**
 
 ---
 
