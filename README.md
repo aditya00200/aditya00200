@@ -125,9 +125,15 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 <a href="https://www.linkedin.com/in/aditya-sharma-a634a2325/">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
 <a href="mailto:adityasharma.10101@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://my-portfolio-ivory-eight-86.vercel.app/#home">
+<img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
