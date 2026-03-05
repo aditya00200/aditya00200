@@ -21,7 +21,16 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 
 💻 Currently mastering **Data Structures & Algorithms using C++**  
 🤖 Learning **Machine Learning & Model Deployment**  
-🌐 Exploring **Web & Backend Development**
+🌐 Exploring **Web & Backend Development**  
+⌨️ Fast Typist — **90 WPM**
+
+---
+
+# ⚡ Productivity Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Typing%20Speed-90%20WPM-111111?style=for-the-badge&logo=keyboard&logoColor=white"/>
+</p>
 
 ---
 
@@ -108,11 +117,6 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 
 # 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya00200&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya00200&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p> -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditya00200&theme=tokyonight&hide_border=true"/>
 </p>
@@ -126,14 +130,13 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:adityasharma.10101@gmail.com">
+<a href="mailto:aadisharma.0285@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-ivory-eight-86.vercel.app/#home">
 <img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
 </p>
 
 ---
