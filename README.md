@@ -137,6 +137,10 @@ Focused on building strong problem-solving skills and deploying intelligent appl
 <a href="https://my-portfolio-ivory-eight-86.vercel.app/#home">
 <img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/Aditya_Sharma_001/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
 ---
